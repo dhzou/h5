@@ -7,7 +7,7 @@ html {
   width: 10px;
   height: 10px;
   /*改变左右上下,图片方块移动*/
-  margin: 200px 300px;
+  margin: 300px 300px;
   position: relative;
 }
 /*包裹所有容器样式*/
